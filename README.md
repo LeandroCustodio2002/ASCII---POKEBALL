@@ -2,7 +2,7 @@
 
 To use this project, I recommend always using an image with the same height and width values, then resizing it to 100x50, since characters do not occupy the same amount of space horizontally and vertically.
 
-[View on pages]([https://imoutofbounds.github.io/ASCII---POKEBALL/](https://leandrocustodio2002.github.io/ASCII---POKEBALL/))
+[View on pages](https://leandrocustodio2002.github.io/ASCII---POKEBALL/)
 ![alt text](./img/image.png)
 
 Result using a 50x50 image
